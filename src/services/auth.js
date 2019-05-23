@@ -5,3 +5,7 @@ export function authenticateCard() {
 export function authenticateEmployee() {
   return 'This will authenticate an employee';
 }
+
+export function authenticateDonor() {
+  return 'This function authenticates a donor';
+}
